@@ -69,7 +69,7 @@ Here the target column is deliberately not there as you need to predict it.
 
 # Author 
 
-[Akshay Panicker]((https://github.com/DevVoyager001/))
+[Akshay Panicker]([(https://github.com/DevVoyager001/)])
 
 # Licence 
 
